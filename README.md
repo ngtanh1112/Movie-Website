@@ -2,8 +2,6 @@
 ![overview](https://github.com/ngtanh1112/Movie-Website/blob/main/demo/project%20overview.png)
 ## Demo screens
 
-[Movie Watching Web](http://Dat0309.github.io/Movie-web-Api-with-ReactJS-)
-
 ![image](https://github.com/ngtanh1112/Movie-Website/blob/main/demo/movie%20%C6%B0eb%20demo.png)
 
 ![image](https://github.com/ngtanh1112/Movie-Website/blob/main/demo/movie%20web%20demo2.png)
