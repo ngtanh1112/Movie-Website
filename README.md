@@ -1,5 +1,4 @@
 # Moview Watching With THEMOVIEDB
-![overview](https://github.com/ngtanh1112/Movie-Website/blob/main/demo/project%20overview.png)
 ## Demo screens
 
 ![image](https://github.com/ngtanh1112/Movie-Website/blob/main/demo/movie%20%C6%B0eb%20demo.png)
